@@ -1,6 +1,9 @@
 # 🧩 Meu Primeiro Dashboard no Google Looker Studio
 
 🎥 **Vídeo demonstrativo (0:15)**  
+
+[![Assistir ao vídeo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/AndreMouraL/Mp4/blob/main/LOOKER%20STUDIO.mp4)
+
 Este vídeo apresenta de forma rápida o dashboard desenvolvido como parte do **Desafio 3** do programa **Trilhas Inova**.
 
 📊 **Ferramenta utilizada:** Google Looker Studio  
